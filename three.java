@@ -58,7 +58,7 @@ public class three
 			array[i]=sc.nextInt();
 		}
 		int arrayLength = array.length;
-		System.out.print("The Least Frequent Element is \t "+least_frequent(array,arrayLength));
+		System.out.print("The Least Frequent Element is \t " +least_frequent(array,arrayLength));
 
 	}
 
