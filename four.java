@@ -39,5 +39,5 @@ public class four
     charRemover(s, c);//function call for removing the given character
 
 	}
-  
+
 }
